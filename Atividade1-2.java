@@ -12,15 +12,17 @@
  *     j. totaldeProdutos       
  */
 
-public class Atividade1_2.java {
+public class Atividade1-2.java {
     public static void main(String[] args) {
         String nomeProduto;
 
         double precoProduto;
-    
-        String marcaDoProduto;
       
         int quantidadeProduto;
+
+        String marcaDoProduto;
+        
+        double precoDoProduto;
       
         String descricaoProduto;
 
@@ -33,5 +35,7 @@ public class Atividade1_2.java {
         int estoqueDisponivel;
       
         int totaldeProdutos;
+    
+      
     }
 }
